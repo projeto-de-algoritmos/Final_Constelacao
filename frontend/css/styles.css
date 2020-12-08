@@ -10,7 +10,10 @@ html, body {
 }
 
 .body-main {
-  background-color: #02013f;
+  /* background-color: #02013f; */
+  background-image: url("../assets/sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .title-container {
@@ -50,7 +53,7 @@ html, body {
   font-size: 1em;
   font-weight: 100;
   font-style: normal;
-  color: #ccc;
+  color: #fff;
 }
 
 .description a:hover, .link a:hover {

@@ -1,1 +1,0 @@
-var PRIM=1,KRUSKAL=2;

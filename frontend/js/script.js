@@ -70,7 +70,7 @@ function drawEdges(mst, i) {
     var a = new Point(edge.a.x, edge.a.y);
     var b = new Point(edge.b.x, edge.b.y);
     var mstPath = new Path.Line(a, b);
-    mstPath.strokeColor = '#98FB98';
+    mstPath.strokeColor = '#fff';
     mstPath.strokeWidth = 3;
 
     drawEdges(mst, i+1);
