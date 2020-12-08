@@ -31,19 +31,21 @@ Tela principal da aplicação:
 
 Pontos desenhados no céu
 
-<img src="./Media/img03.png">
+<img src="./media/img03.png">
 
 Selecionando algoritmo
 
-<img src="./Media/img04.png">
+<img src="./media/img04.png">
 
 Criação da constelação usando Algoritmo de Prim
 
-<img src="./Media/img05.png">
+<img src="./media/img05.png">
 
 Criação da constelação usando Algoritmo de Kruskal
 
-<img src="./Media/img01.png">
+<img src="./media/img01.png">
+
+O vídeo da apresentação está na pasta 'Media' do repositório.
 
 ## Instalação 
 
@@ -69,8 +71,6 @@ cd Final_Constelacao
 
 #### Construa a aplicação
 
-Em abas separadas do terminal você deverá rodar:
-
 ``` bash
     npm install
     npm start
@@ -84,10 +84,3 @@ A aplicação poderá ser acessado em http://localhost:3000
 
 [<img src="https://avatars2.githubusercontent.com/u/9967427?s=400&u=1d2d6cb30ebe846fe9a275e5be16c1ee8cbc07c8&v=4" width=115 > <br> <sub> Ana Carvalho </sub>](https://github.com/anacarolcs)|[<img src="https://avatars1.githubusercontent.com/u/50152184?s=460&u=9ca6d8aed6e77621e231c799a7c4d596c3565cd7&v=4" width=115 > <br> <sub> Jonathan Oliveira </sub>](https://github.com/Jonathan-Oliveira) |
 | :---: | :---: |
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
